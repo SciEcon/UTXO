@@ -5,3 +5,4 @@ This GitHub Repository stores the Data and Python Code for the research paper en
 - UTXO.csv
 - STXO.csv
 ## 2. Google Colab Notebooks 
+- [Deciphering_Bitcoin_Blockchain_Data_by_Cohort_Analysis.ipynb](https://github.com/SciEcon/UTXO/blob/main/Deciphering_Bitcoin_Blockchain_Data_by_Cohort_Analysis.ipynb)
