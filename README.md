@@ -2,7 +2,9 @@
 This GitHub Repository stores the Data and Python Code for the research paper entitled "[Deciphering Bitcoin Blockchain Data by Cohort Analysis](https://arxiv.org/abs/2103.00173)" by Yulin Liu, Luyao Zhang, and Yinhong Zhao. Below are the files listed by Category. 
 
 ## 1. Data files for Mutiple Coins: UTXO and STXO
-- [bitcoin](https://github.com/SciEcon/UTXO/tree/main/bitcoin)
+- [bitcoin](https://github.com/SciEcon/UTXO/tree/main/bitcoin): [currency: Bitcoin; currency_brief:btc]
+--[BitcoinResultSTXO2021-02-10.csv](https://github.com/SciEcon/UTXO/blob/main/bitcoin/BitcoinResultSTXO2021-02-10.csv)
+--[BitcoinResultUTXO2021-02-10.csv](https://github.com/SciEcon/UTXO/blob/main/bitcoin/BitcoinResultUTXO2021-02-10.csv)
 - [bitcoin_cash](https://github.com/SciEcon/UTXO/tree/main/bitcoin_cash)
 - [dash](https://github.com/SciEcon/UTXO/tree/main/dash)
 - [dogecoin](https://github.com/SciEcon/UTXO/tree/main/dogecoin)
