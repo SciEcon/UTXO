@@ -3,6 +3,5 @@ This GitHub Repository stores the Data and Python Code for the research paper en
 
 ## 1. Data files
 - UTXO.csv
-- 
 - STXO.csv
 ## 2. Google Colab Notebooks 
