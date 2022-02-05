@@ -14,7 +14,7 @@ This GitHub Repository stores the Data and Python Code for the research paper en
 - [Deciphering_Bitcoin_Blockchain_Data_by_Cohort_Analysis.ipynb](https://github.com/SciEcon/UTXO/blob/main/Deciphering_Bitcoin_Blockchain_Data_by_Cohort_Analysis.ipynb)
 - [UTXO_Visualizations.ipynb](https://github.com/SciEcon/UTXO/blob/main/UTXO_Visualizations.ipynb)
 
-## Citation BibTeX
+## BibTeX
 ```
 @misc{zhang_2021_utxo,
   author = {Zhang, Luyao and Zhao, Yinhong},
