@@ -20,17 +20,35 @@ Below are the files listed by Category.
 - [Deciphering_Bitcoin_Blockchain_Data_by_Cohort_Analysis.ipynb](https://github.com/SciEcon/UTXO/blob/main/Deciphering_Bitcoin_Blockchain_Data_by_Cohort_Analysis.ipynb)
 - [UTXO_Visualizations.ipynb](https://github.com/SciEcon/UTXO/blob/main/UTXO_Visualizations.ipynb)
 
-## BibTeX
+## 3. Cite Dataset Published on [Harvard Dataverse](https://doi.org/10.7910/DVN/XSZQWP)
+
+### Style in @data
 ```
-@misc{zhang_2021_utxo,
-  author = {Zhang, Luyao and Zhao, Yinhong},
-  month = {04},
-  title = {UTXO},
-  doi = {10.5281/zenodo.4708453	},
-  url = {https://github.com/SciEcon/UTXO},
-  urldate = {2022-02-05},
-  year = {2021},
-  organization = {SciEcon}
+@data{DVN/XSZQWP_2021,
+author = {Liu, Yulin and Zhang, Luyao and Zhao,Yinhong},
+publisher = {Harvard Dataverse},
+title = {{Replication Data for: ``Deciphering Bitcoin Blockchain Data by Cohort Analysis''}},
+UNF = {UNF:6:VlrX3oslCDOKhu1Tjv7iMw==},
+year = {2021},
+version = {V3},
+doi = {10.7910/DVN/XSZQWP},
+url = {https://doi.org/10.7910/DVN/XSZQWP}
+}
+```
+
+### Style in @misc
+
+```
+@misc{DVN/XSZQWP_2021,
+author = {Liu, Yulin and Zhang, Luyao and Zhao,Yinhong},
+publisher = {Harvard Dataverse},
+title = {{Replication Data for: ``Deciphering Bitcoin Blockchain Data by Cohort Analysis''}},
+UNF = {UNF:6:VlrX3oslCDOKhu1Tjv7iMw==},
+year = {2021},
+version = {V3},
+doi = {10.7910/DVN/XSZQWP},
+url = {https://doi.org/10.7910/DVN/XSZQWP}
+}
 ```
 
 
