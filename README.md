@@ -1,5 +1,5 @@
 # UTXO [![DOI](https://zenodo.org/badge/359854756.svg)](https://zenodo.org/badge/latestdoi/359854756)
-This GitHub Repository stores the Data and Python Code for the research paper entitled **"Deciphering Bitcoin Blockchain Data by Cohort Analysis" by Yulin Liu, Luyao Zhang*, and Yinhong Zhao.**  
+This GitHub Repository stores the Data and Python Code for the research paper entitled **"Deciphering Bitcoin Blockchain Data by Cohort Analysis" by Yulin Liu, Luyao Zhang\*, and Yinhong Zhao.**  
 
 *Names by the alphabetical order of the last names, \*the corresponding author*
 
